@@ -98,10 +98,12 @@ LeadFlow/
 ## ◈ Workflow Screenshots
 
 ### Main Automation
-![Main Workflow](screenshots/workflow-canvas.png)
+![Main Workflow](<img width="1666" height="758" alt="Screenshot 2026-11-08 190205" src="https://github.com/user-attachments/assets/2467006b-16e3-4704-9ced-3a53c3ba172c" />
+)
 
 ### Error Handling Workflow
-![Error Workflow](screenshots/error-workflow.png)
+![Error Workflow](<img width="1668" height="756" alt="Screenshot 2026-11-08 190254" src="https://github.com/user-attachments/assets/3b62724f-2f57-4ad5-a29e-9ad048b22d86" />
+)
 
 ## ◈ Setup & Installation
 
